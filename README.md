@@ -39,6 +39,7 @@ The program should output the damage multiplier these types lead to.
    0.5x
 ```
 ---
+
 ### Notes/Hints
 Since probably not every Dojo hacker is an avid Pokémon trainer that knows the
 type effectiveness multipliers by heart here is a [Pokémon type chart].
@@ -169,6 +170,7 @@ Deep further into the api and give the multiplier for folowing
    wrap -> onix
    surf -> dwegong
 ```
+
 **Note: the API replaces a space with a hyphen (-)**
 ---
 
