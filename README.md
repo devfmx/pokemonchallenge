@@ -41,6 +41,7 @@ The program should output the damage multiplier these types lead to.
 ---
 
 ### Notes/Hints
+
 Since probably not every Dojo hacker is an avid Pokémon trainer that knows the
 type effectiveness multipliers by heart here is a [Pokémon type chart].
 ---
