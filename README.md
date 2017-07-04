@@ -1,20 +1,18 @@
 # pokemonchallenge
 
-**Please build this like you would an actual project you're working on. It should be production-ready code that you're proud of. Also you need to publish the code using MITL License and upload it in a public repo in Github.**
-
-
-
-Your goal today is to build a simple Android/iOS/Web app with the following functionality:
+**Please build this like you would an actual project you're working on. It
+should be production-ready code that you're proud of. Also you need to publish
+the code using MIT License and upload it in a public repo in Github.**
 
 
 ## Description
 In the popular Pokémon game all moves and Pokémons have types(fire|water|rock|)
 that determine how effective certain moves are against certain Pokémons.
-
 So the a work by some very simple rules, a certain type can be super effective,
 normal, not very effective or have no effect at all against another type. These translate respectively to 2x, 1x, 0.5x and 0x damage multiplication. If a
 Pokémon has multiple types the effectiveness of a move against this Pokémon
 will be the product of the effectiveness of the move to it's types.
+
 ---
 
 ## Formal Inputs & Outputs
