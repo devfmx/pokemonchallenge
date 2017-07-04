@@ -174,6 +174,7 @@ Deep further into the api and give the multiplier for folowing
 ```
 
 **Note: the API replaces a space with a hyphen (-)**
+
 ---
 
 [Pokémon type chart]: https://pokemondb.net/type
